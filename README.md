@@ -94,7 +94,8 @@ Para cambiar el numero de clases de entramiento cambie el valor de la variable "
 
 #### X.Estructura de Modelo
 La imagen del modelo "[detectorDeGestosv5.ipynb](detectorDeGestosv5.ipynb)" es la siguiente:<br>
-<img src="https://drive.google.com/uc?export=view&id=1zgsnd6gSyXKCfW3BJd6e3SkbU3MpWcti" height="10%" width="10%"><br><br>
+![mqlrf-s6x16](https://drive.google.com/uc?export=view&id=1zgsnd6gSyXKCfW3BJd6e3SkbU3MpWcti)
+<br><br>
 
 # Referencia
 * [MediaPipe](https://mediapipe.dev/)
