@@ -18,7 +18,7 @@ El repositorio contiene lo siguiente:
 * scikit-learn 0.23.2 or Later (Solo si va a mostrar la matriz de confusión) 
 * matplotlib 3.3.2 or Later
 
-# Demo 
+# Demo
 Para corre la aplicación de prueba utilice dentro de la carpeta del proyecto
 ```bash
 python app.py
@@ -70,7 +70,7 @@ The following files are stored.
 ### utils/cvfpscalc.py
 Modulo para calcular los fps.
 
-# Entrenamiento 💪 💪
+# Entrenamiento 
 Agregar y cambiar data de entrenamiento para el reconocimiento de gestos de manos.
 
 ### Entrenamiento del reconocimiento de gestos de manos
@@ -85,7 +85,7 @@ Los puntos clave coordinados
 Las coordenadas del punto clave son las que han sido sometidas al siguiente preprocesamiento hasta 5.<br>
 <img src="https://user-images.githubusercontent.com/37477845/102242918-ed328c80-3f3d-11eb-907c-61ba05678d54.png" width="80%">
 <img src="https://user-images.githubusercontent.com/37477845/102244114-418a3c00-3f3f-11eb-8eef-f658e5aa2d0d.png" width="80%"><br><br>
-Como estado inicial, hay tres 5 tipos de datos de aprendizaje los cuales inclue:mano abierto(Clase ID:0), mano cerrada(Clase ID:1), apuntando (Class ID: 2),Me gusta (Class Id:3) y U pose (Class ID:4).
+Como estado inicial, hay tres 5 tipos de datos de aprendizaje los cuales inclue:mano abierto(Clase ID:0), mano cerrada(Clase ID:1), apuntando (Class ID: 2),Me gusta (Class Id:3) y U pose (Class ID:4).<br>
 <img src="https://drive.google.com/uc?export=view&id=1sF026ejrKxjeMp-9tXWPtiUcCr2VKmAZ" width="25%">　<img src="https://drive.google.com/uc?export=view&id=10KVPd7ATAD0F5gDwXGvFgCmmAb_nt_uJ" width="25%">　
 
 #### 2.Modelo de entrenamiento
